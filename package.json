@@ -1,0 +1,22 @@
+{
+  "name": "projects_0.2_news",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doda1826/newProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doda1826/newProject/issues"
+  },
+  "homepage": "https://github.com/Doda1826/newProject#readme",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
